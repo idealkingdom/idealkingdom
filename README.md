@@ -18,7 +18,7 @@
 
 <br><br>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:jeff.cabarrubias@gmail.com">
   <img src="https://img.shields.io/badge/say_hi-161b22?style=flat-square&logo=mail.ru&logoColor=8b949e" alt="Contact" />
 </a>
 
