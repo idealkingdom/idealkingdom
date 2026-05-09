@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=idealkingdom&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_title=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=idealkingdom&show_icons=true&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_title=true" alt="stats" />
 
 <br><br>
 
