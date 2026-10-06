@@ -6,7 +6,7 @@ Static, dependency-free HTML/CSS/JavaScript in `docs/`. Designed for GitHub Page
 
 - Resume and supplied career details are the content sources.
 - Keiken and migration automation are described as professional AI engineering work; their illustrations are conceptual.
-- AuthScaffold is featured as a public Python/FastAPI backend project. Career history stays brief and does not lead with driver-release or survey counts.
+- kdAina is featured as a public Python/FastAPI backend project. Career history stays brief and does not lead with driver-release or survey counts.
 - Light is the default; the explicit theme choice persists locally.
 - Resume download, email, LinkedIn, and GitHub links are included.
 - No analytics, trackers, remote UI assets, forms, or API keys.
