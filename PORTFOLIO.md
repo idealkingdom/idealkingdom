@@ -6,9 +6,10 @@ Static, dependency-free HTML/CSS/JavaScript in `docs/`. Designed for GitHub Page
 
 - Resume and supplied career details are the content sources.
 - Keiken and migration automation are described as professional AI engineering work; their illustrations are conceptual.
-- kdAina is featured as a public Python/FastAPI backend project. Career history stays brief and does not lead with driver-release or survey counts.
+- kdAina is featured first as a public TypeScript VS Code extension and agentic AI coding companion. Career history stays brief and does not lead with driver-release or survey counts.
 - Light is the default; the explicit theme choice persists locally.
-- Resume download, email, LinkedIn, and GitHub links are included.
+- Resume download, email, LinkedIn, GitHub, and verified public Credly links are included.
+- Four Claude credentials are highlighted near the top; AWS skills name S3, Lambda, and API Gateway.
 - No analytics, trackers, remote UI assets, forms, or API keys.
 
 ## Maintenance
